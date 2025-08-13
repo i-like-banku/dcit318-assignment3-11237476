@@ -1,0 +1,15 @@
+C:\Users\kelvi\Downloads\Q1_FinanceManagement\Q1_FinanceManagement\bin\Debug\net9.0\Q1_FinanceManagement.exe
+C:\Users\kelvi\Downloads\Q1_FinanceManagement\Q1_FinanceManagement\bin\Debug\net9.0\Q1_FinanceManagement.deps.json
+C:\Users\kelvi\Downloads\Q1_FinanceManagement\Q1_FinanceManagement\bin\Debug\net9.0\Q1_FinanceManagement.runtimeconfig.json
+C:\Users\kelvi\Downloads\Q1_FinanceManagement\Q1_FinanceManagement\bin\Debug\net9.0\Q1_FinanceManagement.dll
+C:\Users\kelvi\Downloads\Q1_FinanceManagement\Q1_FinanceManagement\bin\Debug\net9.0\Q1_FinanceManagement.pdb
+C:\Users\kelvi\Downloads\Q1_FinanceManagement\Q1_FinanceManagement\obj\Debug\net9.0\Q1_FinanceManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelvi\Downloads\Q1_FinanceManagement\Q1_FinanceManagement\obj\Debug\net9.0\Q1_FinanceManagement.AssemblyInfoInputs.cache
+C:\Users\kelvi\Downloads\Q1_FinanceManagement\Q1_FinanceManagement\obj\Debug\net9.0\Q1_FinanceManagement.AssemblyInfo.cs
+C:\Users\kelvi\Downloads\Q1_FinanceManagement\Q1_FinanceManagement\obj\Debug\net9.0\Q1_FinanceManagement.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\Downloads\Q1_FinanceManagement\Q1_FinanceManagement\obj\Debug\net9.0\Q1_FinanceManagement.sourcelink.json
+C:\Users\kelvi\Downloads\Q1_FinanceManagement\Q1_FinanceManagement\obj\Debug\net9.0\Q1_FinanceManagement.dll
+C:\Users\kelvi\Downloads\Q1_FinanceManagement\Q1_FinanceManagement\obj\Debug\net9.0\refint\Q1_FinanceManagement.dll
+C:\Users\kelvi\Downloads\Q1_FinanceManagement\Q1_FinanceManagement\obj\Debug\net9.0\Q1_FinanceManagement.pdb
+C:\Users\kelvi\Downloads\Q1_FinanceManagement\Q1_FinanceManagement\obj\Debug\net9.0\Q1_FinanceManagement.genruntimeconfig.cache
+C:\Users\kelvi\Downloads\Q1_FinanceManagement\Q1_FinanceManagement\obj\Debug\net9.0\ref\Q1_FinanceManagement.dll
