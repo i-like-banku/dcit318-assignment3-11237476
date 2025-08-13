@@ -1,0 +1,15 @@
+C:\Users\kelvi\Downloads\assignment3\Q2_HealthcareSystem\healthcare\bin\Debug\net9.0\healthcare.exe
+C:\Users\kelvi\Downloads\assignment3\Q2_HealthcareSystem\healthcare\bin\Debug\net9.0\healthcare.deps.json
+C:\Users\kelvi\Downloads\assignment3\Q2_HealthcareSystem\healthcare\bin\Debug\net9.0\healthcare.runtimeconfig.json
+C:\Users\kelvi\Downloads\assignment3\Q2_HealthcareSystem\healthcare\bin\Debug\net9.0\healthcare.dll
+C:\Users\kelvi\Downloads\assignment3\Q2_HealthcareSystem\healthcare\bin\Debug\net9.0\healthcare.pdb
+C:\Users\kelvi\Downloads\assignment3\Q2_HealthcareSystem\healthcare\obj\Debug\net9.0\healthcare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kelvi\Downloads\assignment3\Q2_HealthcareSystem\healthcare\obj\Debug\net9.0\healthcare.AssemblyInfoInputs.cache
+C:\Users\kelvi\Downloads\assignment3\Q2_HealthcareSystem\healthcare\obj\Debug\net9.0\healthcare.AssemblyInfo.cs
+C:\Users\kelvi\Downloads\assignment3\Q2_HealthcareSystem\healthcare\obj\Debug\net9.0\healthcare.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\Downloads\assignment3\Q2_HealthcareSystem\healthcare\obj\Debug\net9.0\healthcare.sourcelink.json
+C:\Users\kelvi\Downloads\assignment3\Q2_HealthcareSystem\healthcare\obj\Debug\net9.0\healthcare.dll
+C:\Users\kelvi\Downloads\assignment3\Q2_HealthcareSystem\healthcare\obj\Debug\net9.0\refint\healthcare.dll
+C:\Users\kelvi\Downloads\assignment3\Q2_HealthcareSystem\healthcare\obj\Debug\net9.0\healthcare.pdb
+C:\Users\kelvi\Downloads\assignment3\Q2_HealthcareSystem\healthcare\obj\Debug\net9.0\healthcare.genruntimeconfig.cache
+C:\Users\kelvi\Downloads\assignment3\Q2_HealthcareSystem\healthcare\obj\Debug\net9.0\ref\healthcare.dll
